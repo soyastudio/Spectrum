@@ -1,3 +1,8 @@
+# Integer
+
+
+
+
 ```mermaid
 mindmap
   root((mindmap))
