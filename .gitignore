@@ -1,3 +1,6 @@
+# PDF
+*.pdf
+
 # Python
 __pycache__/
 *.py[cod]
